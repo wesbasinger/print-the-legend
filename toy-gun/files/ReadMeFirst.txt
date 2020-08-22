@@ -1,0 +1,2 @@
+The files outside the folder "ToyGun.zip" are because thingiverse requieres STLs in order to publish something. Is the same version as the one named "45ABSTOY-1.75Pins".
+"I use 45ACP because there´s not a 46ACP"
