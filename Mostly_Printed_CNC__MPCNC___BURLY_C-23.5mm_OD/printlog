@@ -1,0 +1,36 @@
+QTY
+Name
+Infill
+23.5 Link
+25mm Link
+25.4mm Link
+Time/part	
+Total time
+Grams Per Part
+Total grams
+2	Bottom_Corner*	55%	Link	Link	Link	2:35	5:10	34.7	69.4
+	- Saved to GCODE, currently halfway through first print
+2	BottomM_Corner*	55%	Link	Link	Link	2:35	5:10	34.7	69.4
+2	Lock-Corner*	55%	Link	Link	Link	1:28	2:56	20.8	41.7
+	- Saved to GCODE
+2	LockM_Corner*	55%	Link	Link	Link	1:28	2:56	20.8	41.7
+2	Top_Corner*	55%	Link	Link	Link	2:06	4:12	32.9	66.1
+2	TopM_Corner*	55%	Link	Link	Link	2:06	4:12	32.9	66.1
+4	Spacer_Corner_*_Burly	65%	Link	Link	Link	:15	1:05	4.17	16.6
+4	*-Foot_2018	35%	Link	Link	Link	2:20	9:20	31.8	127.1
+2	*-Roller	55%	Link	Link	Link	5:35	11:10	90	180
+2	*-Roller M	55%	Link	Link	Link	 5:35	 11:10	 90	180
+4	RollerMount
+55%	Link	Link	Link	 3:30	14	50	200
+4	RollerPlate (optional Dual)
+55%	Link	Link	Link	 :10	:40	2	8
+2	XY_*_Burly	55%	Link	Link	Link	 11	22	 201	 402
+2	XYZ_*_Burly
+65%	Link	Link	Link	 5	 10	 71.5	 143
+2	Gantry_Spacer_*	55%	Link	Link	Link	 :22	 :45	 10.3	 10.3
+2	Nut_Trap_Burly	55%	Link	Link	Link	 :27	 :55	 16	 32
+1	Tool_Mount_*_4mm/6-32	35%	Link	Link	Link	 4:45	 4:45	 63.4	63.4
+1	Z_Lower_*_Burly	55%	Link	Link	Link	 2:15	 2:15	 35	 35
+1	Z_Motor_*_Burly	55%	Link	Link	Link	 2:15	 2:15	 31	 31
+ 	 	 	 	 	 	 	 Total	 	 Total
+ 	 	 	 	 	 	 	≈115hrs	 	 1.8kg
