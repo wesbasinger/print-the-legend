@@ -9,19 +9,27 @@ Total time
 Grams Per Part
 Total grams
 2	Bottom_Corner*	55%	Link	Link	Link	2:35	5:10	34.7	69.4
-	- Saved to GCODE, currently halfway through first print
+	- DONE
 2	BottomM_Corner*	55%	Link	Link	Link	2:35	5:10	34.7	69.4
+	- DONE
 2	Lock-Corner*	55%	Link	Link	Link	1:28	2:56	20.8	41.7
-	- Saved to GCODE
+	- DONE
 2	LockM_Corner*	55%	Link	Link	Link	1:28	2:56	20.8	41.7
+	- DONE
 2	Top_Corner*	55%	Link	Link	Link	2:06	4:12	32.9	66.1
+	- DONE
 2	TopM_Corner*	55%	Link	Link	Link	2:06	4:12	32.9	66.1
+	- DONE
 4	Spacer_Corner_*_Burly	65%	Link	Link	Link	:15	1:05	4.17	16.6
+	- DONE
 4	*-Foot_2018	35%	Link	Link	Link	2:20	9:20	31.8	127.1
+	- DONE
 2	*-Roller	55%	Link	Link	Link	5:35	11:10	90	180
+	- DONE
 2	*-Roller M	55%	Link	Link	Link	 5:35	 11:10	 90	180
-4	RollerMount
-55%	Link	Link	Link	 3:30	14	50	200
+	- DONE
+4	RollerMount	55%	Link	Link	Link	 3:30	14	50	200
+	- Saved to Gcode
 4	RollerPlate (optional Dual)
 55%	Link	Link	Link	 :10	:40	2	8
 2	XY_*_Burly	55%	Link	Link	Link	 11	22	 201	 402
