@@ -29,16 +29,22 @@ Total grams
 2	*-Roller M	55%	Link	Link	Link	 5:35	 11:10	 90	180
 	- DONE
 4	RollerMount	55%	Link	Link	Link	 3:30	14	50	200
-	- Saved to Gcode
-4	RollerPlate (optional Dual)
-55%	Link	Link	Link	 :10	:40	2	8
+	- DONE
+4	RollerPlate (optional Dual)	55%	Link	Link	Link	 :10	:40	2	8
+	- DONE
 2	XY_*_Burly	55%	Link	Link	Link	 11	22	 201	 402
-2	XYZ_*_Burly
-65%	Link	Link	Link	 5	 10	 71.5	 143
+	- In progress on first one
+2	XYZ_*_Burly	65%	Link	Link	Link	 5	 10	 71.5	 143
+	- DONE
 2	Gantry_Spacer_*	55%	Link	Link	Link	 :22	 :45	 10.3	 10.3
+	- DONE
 2	Nut_Trap_Burly	55%	Link	Link	Link	 :27	 :55	 16	 32
+	- DONE
 1	Tool_Mount_*_4mm/6-32	35%	Link	Link	Link	 4:45	 4:45	 63.4	63.4
+	- DONE
 1	Z_Lower_*_Burly	55%	Link	Link	Link	 2:15	 2:15	 35	 35
+	- DONE
 1	Z_Motor_*_Burly	55%	Link	Link	Link	 2:15	 2:15	 31	 31
+	- DONE
  	 	 	 	 	 	 	 Total	 	 Total
  	 	 	 	 	 	 	≈115hrs	 	 1.8kg
